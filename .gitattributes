@@ -1,0 +1,2 @@
+# NOTE: You probably don't want to look at this, but the *named* .gitattributes files
+*.gitattributes linguist-detectable linguist-language=Git-Attributes
