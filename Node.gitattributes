@@ -4,3 +4,7 @@ dist/* binary
 # Prevents massive diffs caused by vendored, minified files
 /.yarn/releases/** binary
 /.yarn/plugins/** binary
+
+# Fixes syntax highlighting and language distribution stats on GitHub
+# for specialized tsconfig files
+tsconfig.*.json linguist-language=JSON-with-Comments
